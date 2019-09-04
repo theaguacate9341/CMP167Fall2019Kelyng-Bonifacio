@@ -1,8 +1,8 @@
 /**
  * 
  * @author Kelyng Bonifacio
- * description:
- * created:
+ * description: Example of showing how scanner imput works
+ * created:September 04 2019
  *
  */
 //import Scanner class
